@@ -16,4 +16,4 @@ Open the `main.ipynb` file. Follow the instructions and add your code and explan
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote..
